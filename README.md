@@ -26,4 +26,4 @@ PM2.5, Ozone informations are available in the dataset. This is a historical dat
 ```
 
 # License
-The data are publicly available. Please visit  <a href="https://airnow.gov/" target="_blank">EPA</a> website below to learn more
+The data are publicly available. Please visit  <a href="https://airnow.gov/" target="_blank">EPA</a> to learn more
