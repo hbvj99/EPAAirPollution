@@ -1,4 +1,4 @@
-# EPANepalData
+# EPA Air Pollution Data
 Air pollution data by EPA. The locations includes US Embassy Nepal and Phora Durbar Kathmandu.
 
 You can find more information reagading pollution data at https://airnow.gov/
