@@ -5,7 +5,7 @@ You can find more information reagading pollution data at https://airnow.gov/
 
 ## Data
 
-PM2.5, Ozone informations are available in the dataset. This is a historical dataset measure by a live stations, fetch into the CSV document. The measuring scale is one hour.
+PM2.5, Ozone informations are available in the dataset. This is a historical dataset measured by live stations, fetch into the CSV document. The measuring scale is one hour.
 
 ### Categories
 
